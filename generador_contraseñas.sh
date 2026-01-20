@@ -57,7 +57,7 @@ while true; do
     echo "Tu 🔒 contraseña generada es: $password"
     
     echo "$password" >> $archivo
-    sleep3
+    sleep 3
     
     ;;
 
